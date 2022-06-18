@@ -1,0 +1,15 @@
+{
+    "product": [
+
+        {
+            "id": 3,
+            "name": "jader",
+            "brand": "Diesel"
+        },
+        {
+            "id": 2,
+            "name": "joão",
+            "brand": "Adida"
+        }
+    ]
+}
