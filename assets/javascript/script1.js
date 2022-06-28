@@ -20,8 +20,3 @@ btnGenerate.addEventListener('click', () => {
     }
     result.value = generatePasswd()
 });
-
-
-function parar(params) {
-
-}
