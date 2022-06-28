@@ -83,7 +83,3 @@ btnCopy.addEventListener("click", () => {
     navigator.clipboard.writeText(result.value);
     alert("texto copiado " + result.value);
 });
-
-function ir(params) {
-
-}
